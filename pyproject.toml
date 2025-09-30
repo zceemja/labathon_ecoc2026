@@ -1,0 +1,15 @@
+[project]
+name = "ecoc25-labathon"
+version = "0.1.0"
+description = "This is cool ecoc 2025 hack your search depo project"
+requires-python = ">=3.12"
+dependencies = [
+    "diffrax>=0.7.0",
+    "jax[cuda13]>=0.7.2",
+    "jaxopt>=0.8.5",
+    "matplotlib>=3.10.6",
+    "optax>=0.2.6",
+    "optimistix>=0.0.10",
+    "scikit-commpy>=0.8.0",
+    "sibase>=0.2.0",
+]
