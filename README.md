@@ -1,4 +1,4 @@
-# ECOC 2025 Hack your research: Using JAX to crunch numbers fast
+# ECOC ~~2025~~ 2026 Hack your research: Using JAX to crunch numbers fast
 
 Have you ever wanted to run a simulation, but it will take 40 days to finish and ECOC deadline is in the week? **Worry not!** This hack demo will show the nice goodies that python JAX framework ecosystem has to offer and how your slow code can be turned into a research paper.
 
