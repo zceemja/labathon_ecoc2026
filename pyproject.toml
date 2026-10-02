@@ -1,7 +1,7 @@
 [project]
-name = "ecoc25-labathon"
+name = "ecoc26-labathon"
 version = "0.1.0"
-description = "This is cool ecoc 2025 hack your search depo project"
+description = "This is cool ecoc 2026 hack your search depo project"
 requires-python = ">=3.12"
 dependencies = [
     "diffrax>=0.7.0",
@@ -12,4 +12,5 @@ dependencies = [
     "optimistix>=0.0.10",
     "scikit-commpy>=0.8.0",
     "sibase>=0.2.0",
+    "taichi"
 ]
